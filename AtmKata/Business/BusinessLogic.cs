@@ -78,7 +78,7 @@ namespace AtmKata.Business
             return _dab;
         }
 
-        private IAccount GetAccountByName(string name)
+        public IAccount GetAccountByName(string name)
         {
             return _listeAccount.FirstOrDefault(x => x.Name == name);
         }

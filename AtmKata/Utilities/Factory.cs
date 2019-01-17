@@ -1,23 +1,19 @@
 ﻿using AtmKata.Business;
 using AtmKata.ConsoleUI;
 using AtmKata.Model;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AtmKata.Utilities
 {
     public static class Factory
     {
-     
-        public static int[] Bills=  new int[] { 100, 50, 20, 10 };
-        
+
+        public static int[] Bills = new int[] { 100, 50, 20, 10 };
+
         public static IDab CreatDab()
         {
             return new Dab(Bills)
-            {                
+            {
                 NumberOfBills = new int[] { 2, 5, 10, 10 }
             };
         }
@@ -38,7 +34,7 @@ namespace AtmKata.Utilities
                 Name = "Alice",
                 Balance = 1500
             };
-           
+
 
             var jean = new Account()
             {
@@ -57,7 +53,7 @@ namespace AtmKata.Utilities
             listAccount.Add(jean);
             listAccount.Add(paul);
             return listAccount;
-      
+
         }
         public static IBusinessLogic CreateBusiness()
         {

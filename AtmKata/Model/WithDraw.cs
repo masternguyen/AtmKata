@@ -13,7 +13,7 @@ namespace AtmKata.Model
 
         public void Execute()
         {
-            Account.Balance -= Amount;
+            Account.Debit(Amount);
         }
     }
 }

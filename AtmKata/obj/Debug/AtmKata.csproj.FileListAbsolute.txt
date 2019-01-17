@@ -5,3 +5,10 @@ C:\Users\trung\source\repos\AtmKata\AtmKata\obj\Debug\AtmKata.csprojAssemblyRefe
 C:\Users\trung\source\repos\AtmKata\AtmKata\obj\Debug\AtmKata.csproj.CoreCompileInputs.cache
 C:\Users\trung\source\repos\AtmKata\AtmKata\obj\Debug\AtmKata.exe
 C:\Users\trung\source\repos\AtmKata\AtmKata\obj\Debug\AtmKata.pdb
+C:\Users\trung\Source\Repos\AtmTest\AtmKata\bin\Debug\AtmKata.exe.config
+C:\Users\trung\Source\Repos\AtmTest\AtmKata\bin\Debug\AtmKata.exe
+C:\Users\trung\Source\Repos\AtmTest\AtmKata\bin\Debug\AtmKata.pdb
+C:\Users\trung\Source\Repos\AtmTest\AtmKata\obj\Debug\AtmKata.csprojAssemblyReference.cache
+C:\Users\trung\Source\Repos\AtmTest\AtmKata\obj\Debug\AtmKata.csproj.CoreCompileInputs.cache
+C:\Users\trung\Source\Repos\AtmTest\AtmKata\obj\Debug\AtmKata.exe
+C:\Users\trung\Source\Repos\AtmTest\AtmKata\obj\Debug\AtmKata.pdb

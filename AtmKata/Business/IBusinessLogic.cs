@@ -1,9 +1,4 @@
 ﻿using AtmKata.Model;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AtmKata.Business
 {
@@ -11,6 +6,7 @@ namespace AtmKata.Business
     {
         ICashDispenser WithDraw(string name, decimal amount);
         IDab GetDab();
-        decimal GetBalanceByName(string name); 
+        IAccount GetAccountByName(string name);
+        decimal GetBalanceByName(string name);
     }
 }
