@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmKata", "AtmKata\AtmKata.csproj", "{205BC835-CAE8-4581-8793-E1B9BBF54BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{205BC835-CAE8-4581-8793-E1B9BBF54BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205BC835-CAE8-4581-8793-E1B9BBF54BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205BC835-CAE8-4581-8793-E1B9BBF54BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205BC835-CAE8-4581-8793-E1B9BBF54BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D2109CD-D87B-4E03-B187-CB05F415169C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\trung\source\repos\AtmKata\AtmKata\bin\Debug\AtmKata.exe.config
+C:\Users\trung\source\repos\AtmKata\AtmKata\bin\Debug\AtmKata.exe
+C:\Users\trung\source\repos\AtmKata\AtmKata\bin\Debug\AtmKata.pdb
+C:\Users\trung\source\repos\AtmKata\AtmKata\obj\Debug\AtmKata.csprojAssemblyReference.cache
+C:\Users\trung\source\repos\AtmKata\AtmKata\obj\Debug\AtmKata.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\AtmKata\AtmKata\obj\Debug\AtmKata.exe
+C:\Users\trung\source\repos\AtmKata\AtmKata\obj\Debug\AtmKata.pdb
